@@ -1,4 +1,7 @@
-## Hi there 👋
+## Summary 👋
+I am an enthusiastic and detail-oriented data scientist , with a data science MSc from the University of Salford, Manchester, England, to deepen my expertise in data analytics/data science and business intelligence. With a strong foundation in data manipulation, visualization, and statistical analysis, I am eager to turn raw data into actionable insights that drive decision-making.
+
+I am excited to bring my skills and enthusiasm to dynamic data-driven organizations where I can contribute to impactful projects and grow alongside a team of professionals. Eager to apply my knowledge and broaden my expertise, I am actively seeking opportunities to collaborate on challenges that leverage data to make informed decisions and open to work. 
 
 <!--
 **Edobor-Queensley/Edobor-Queensley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
